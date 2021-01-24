@@ -10,6 +10,7 @@ lessons:
 - { id: 'leaeUHVNR9o', title: 'KITE VICTERS Plus one  Computerscience Class 02 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'nlZc_mJ83nw', title: 'KITE VICTERS Plus one  Computerscience Class 03 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 - { id: 'HK60xZZdnyo', title: 'KITE VICTERS Plus one  Computerscience Class 04 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
+- { id: 'oljQ9Ue4ORQ', title: 'KITE VICTERS Plus one  Computerscience Class 05 (First Bell-ഫസ്റ്റ് ബെല്‍)' }
 
 
 
